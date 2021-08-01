@@ -45,7 +45,6 @@
 ./data/customdata/images/PV050.jpg
 ./data/customdata/images/PV051.jpg
 ./data/customdata/images/PV052.jpg
-./data/customdata/images/PV053.jpg
 ./data/customdata/images/PV054.jpg
 ./data/customdata/images/PV055.jpg
 ./data/customdata/images/PV056.jpg
